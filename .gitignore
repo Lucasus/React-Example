@@ -31,3 +31,6 @@ node_modules
 
 # WebStorm files
 .idea
+
+# Generated html files
+views/*.html
