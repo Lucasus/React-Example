@@ -2,5 +2,5 @@
 .idea/
 
 ### Bower ###
-bower_dependencies
+bower_components
 
